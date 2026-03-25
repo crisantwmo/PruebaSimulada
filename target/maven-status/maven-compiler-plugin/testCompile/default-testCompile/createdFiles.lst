@@ -1,0 +1,8 @@
+com/kendall/qa/test/base/BaseTest.class
+com/kendall/qa/test/pages/LoginPage.class
+com/kendall/qa/test/QaTest.class
+com/kendall/qa/test/tests/ProductTest.class
+com/kendall/qa/test/tests/CartTest.class
+com/kendall/qa/test/pages/CartPage.class
+com/kendall/qa/test/tests/LoginTest.class
+com/kendall/qa/test/pages/ProductPage.class
